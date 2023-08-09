@@ -5,7 +5,7 @@
 
 - 😴 I'm Currently Working on **LLM Research**.
 - 💬 Ask Me About **Data Science**, **Machine Learning**
-- 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:patrapranoy1@gmail.com)](mailto:patrapranoy1@gmail.com)
+- 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-PranoyPatra-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:patrapranoy1@gmail.com)](mailto:patrapranoy1@gmail.com)
 
 <p align="left">
 
